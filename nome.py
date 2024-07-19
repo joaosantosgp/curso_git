@@ -1,2 +1,1 @@
-def mostrarNome(nome):
-    return nome
+# Finalizando sistema de login
