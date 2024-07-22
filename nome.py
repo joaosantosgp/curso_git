@@ -3,4 +3,5 @@ def login(nome, email):
     return 'Bem vindo'
 
 
-# seja bem vindo
+def mostarIdade(idade):
+    return 'Sua idade'
